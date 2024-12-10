@@ -3,8 +3,8 @@
 
 ### **About Me**  
 - 👀 **Interests:** Technology, design, and discovering new ways to solve real-world problems.  
-- 🌱 **Currently Learning:** [Insert what you're learning—e.g., "AI and Machine Learning," "Cloud Computing," or "Advanced UI/UX Design"].  
-- 💞️ **Looking to Collaborate On:** Exciting projects that blend creativity and functionality, especially in [specific fields, e.g., "web development" or "data-driven apps"].  
+- 🌱 **Currently:** Machine Learning Engineer at Samyak Infotech.  
+- 💞️ **Looking to Collaborate On:** Exciting projects that blend creativity and functionality, especially in Generative AI.  
 
 ### **Get in Touch**  
 - 📫 **Reach me at:** pankaj.dhut@samyak.com  
